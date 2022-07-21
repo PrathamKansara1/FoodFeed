@@ -1,0 +1,22 @@
+.contactCntainer {
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contactCntainer h1{
+    color: #0d2fb8;
+}
+
+.contactus {
+  margin-top: 5rem;
+}
+
+.contactus h2 {
+  color: #0d2fb8;
+}
+
+.contactus h3{
+    color: #4e5261;
+}
